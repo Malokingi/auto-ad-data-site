@@ -14,4 +14,5 @@ if git show-ref --verify --quiet "refs/heads/$1"; then
 else
   echo "Branch $1 does not exist. Creating new branch..."
   git checkout -b $1
+  git push --set-upstream origin $1
 fi
