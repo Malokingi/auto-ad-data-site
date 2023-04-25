@@ -28,9 +28,9 @@ s/run
 ## To Do:
 ### Code
 - [x] Get prototpye running
-- [ ] Make one or more custom histograms
-- [ ] Make one or more custom scatter plots
-- [ ] Add Checkbox that changes one or more of the graphs in some way
+- [x] Make one or more custom histograms
+- [x] Make one or more custom scatter plots
+- [x] Add Checkbox that changes one or more of the graphs in some way
 ### Deploy
 - [ ] Make streamlit config file
 - [ ] Make new web service on Render
