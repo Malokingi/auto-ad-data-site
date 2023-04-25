@@ -30,7 +30,7 @@ s/run
 - [x] Get prototpye running
 - [x] Make one or more custom histograms
 - [x] Make one or more custom scatter plots
-- [ ] Add Checkbox that changes one or more of the graphs in some way
+- [x] Add Checkbox that changes one or more of the graphs in some way
 ### Deploy
 - [ ] Make streamlit config file
 - [ ] Make new web service on Render
