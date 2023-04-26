@@ -81,7 +81,8 @@ if sl.sidebar.button('Render'):
         # A scatter plot
         fig_sp = px.scatter(filtered_df, x='odometer', y='price', title='Scatter Plot of Price vs. Mileage by Contition', color='condition')
         sl.write(fig_sp)
-    # Some Optional Graphs (it take a long time to render all at once every time, so I added the option to show them to the sidebar)
+    # Some Optional Graphs (it takes a long time to render all at once every time, so I added the option 
+    # to show or hide them to the sidebar)
     if show_lc:
         # A Line Chart
         fig_lc = px.line(filtered_df, x='model_year', y='price', title='Line Chart of Average Car Price Over Time by Condition', color='condition')
