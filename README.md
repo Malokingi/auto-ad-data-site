@@ -32,11 +32,11 @@ s/run
 - [x] Make one or more custom scatter plots
 - [x] Add Checkbox that changes one or more of the graphs in some way
 ### Deploy
-- [ ] Make streamlit config file
-- [ ] Make new web service on Render
-- [ ] Link to GitHub
-- [ ] Configure on Render
-- [ ] Deploy on Render
+- [x] Make streamlit config file
+- [x] Make new web service on Render
+- [x] Link to GitHub
+- [x] Configure on Render
+- [x] Deploy on Render
 ### Submit
 - [ ] Final check to make sure it works
 - [ ] Update Readme
