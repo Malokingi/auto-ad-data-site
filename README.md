@@ -56,6 +56,13 @@ To see via Render click here:
 
 ### Revise
 - [ ] Add Project Description and conclusion to the Jupyter Notebook
+    - [x] How does the lited Condition affect the Price?
+    - [x] How does the Odometer reading affect the Price?
+    - [x] How does listed Fuel Type and Transmission Type affect Price?
+    - [x] Does the Day of the Week the cars were listed affect the sales Price?
+    - [x] Which Manufacturers are the most popular?
+        - [x] Between the 4 most popular, is there anything interesting to be gleaned from the relationsship between the Condition and Price?
+        - [x] Amoung the 4 most popular, is there anything interesting to be gleaned from the relationsship between the Day of the Week the car was listed and Price?
 - [x] Fill in missing values with values other than "unknown"
     - [x] year: group by model fill by median year
     - [x] cylinders: group by model fill by median cylindres
