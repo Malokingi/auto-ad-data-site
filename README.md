@@ -53,3 +53,12 @@ To see via Render click here:
 - [x] Final check to make sure it works
 - [x] Update Readme
 - [x] Submit
+
+### Revise
+- [ ] Add Project Description and conclusion to the Jupyter Notebook
+- [x] Fill in missing values with values other than "unknown"
+    - [x] year: group by model fill by median year
+    - [x] cylinders: group by model fill by median cylindres
+    - [x] odometer: group by model year(or year+model) fill by mean odometr
+    - [x] exterior_color: fill by no info, etc.
+    - [x] 4_wheel_drive: fill by 0
