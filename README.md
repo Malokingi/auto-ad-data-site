@@ -55,7 +55,7 @@ To see via Render click here:
 - [x] Submit
 
 ### Revise
-- [ ] Add Project Description and conclusion to the Jupyter Notebook
+- [X] Add Project Description and conclusion to the Jupyter Notebook
     - [x] How does the lited Condition affect the Price?
     - [x] How does the Odometer reading affect the Price?
     - [x] How does listed Fuel Type and Transmission Type affect Price?
@@ -69,3 +69,4 @@ To see via Render click here:
     - [x] odometer: group by model year(or year+model) fill by mean odometr
     - [x] exterior_color: fill by no info, etc.
     - [x] 4_wheel_drive: fill by 0
+- [x] Submit Round Two
